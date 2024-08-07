@@ -60,4 +60,4 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
 </p>
 
 ## Activity
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=nexuSparkCodding&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=aemiink&show_icons=true&theme=radical)
