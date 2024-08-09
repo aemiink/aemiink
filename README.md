@@ -45,10 +45,12 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
 ## Languages and Tools:
 <p align="left">
   <img src="https://svglogos.net/wp-content/uploads/visual-studio-code.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://svglogos.net/wp-content/webstorm.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="graphql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
