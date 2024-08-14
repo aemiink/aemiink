@@ -1,16 +1,7 @@
 <!--
 **nexuSparkCodding/nexuSparkCodding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <!--
@@ -22,17 +13,19 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)  -->
 
 <p align="center">
-  <img src="https://i.ibb.co/rHfyRtg/nexu-Spark-BG.png" width="750px">
+  <img src="https://i.ibb.co/W37dRkP/nexu-Spark.png" width="750px">
 </p>
   
 
 ## Hi Guys 🙌
 📫I'm here to offer you a great opportunity! A lot of things you will find on this github account will make your life easier! <br>
 _📚 Here is a complete list of quick codings and guides you can find on this github account_ <br>
-* **Front-End Development Libraries** _(📹 Will be supported by instagram reels.)_ 
-* **Back-End Development Libraries**  _(📹 Will be supported by instagram reels.)_
-* **Dart Basics Guide**  _(📹 Will be supported by youtube videos.)_
-* **Back-End Basics Guide** _(📹 Will be supported by youtube videos.)_
+
+- **🔭 I’m currently working** on Javascript, React.js, Typescript, Next.js, Django, Flask, Flutter, SAAS,
+- **🌱 I’m currently learning** Machine Learning
+- **👯 I’m looking to** collaborate on cross-functional team
+- **💬 Ask me** about anything
+
 
 ## Connect with me:
 <p align="left">
