@@ -21,8 +21,8 @@ tr us [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labe
 📫I'm here to offer you a great opportunity! A lot of things you will find on this github account will make your life easier! <br>
 _📚 Here is a complete list of quick codings and guides you can find on this github account_ <br>
 
-- **🔭 I’m currently working** on Javascript, React.js, Typescript, Next.js, Django, Flask, Flutter, SAAS,
-- **🌱 I’m currently learning** Machine Learning
+- **🔭 I’m currently working** on Javascript, React.js, Typescript, Next.js, Django, Flask, Flutter, SAAS, C#, Unity
+- **🌱 I’m currently learning** Machine Learning, Game Development
 - **👯 I’m looking to** collaborate on cross-functional team
 - **💬 Ask me** about anything
 
@@ -52,6 +52,7 @@ _📚 Here is a complete list of quick codings and guides you can find on this g
   <img src="https://pngimg.com/uploads/github/github_PNG51.png" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>
   <img src="https://github.com/nexuSparkCodding/nexuSparkCodding/assets/173151857/ca6aac36-2863-4509-b8d8-1d9f47ab6ac4" alt="terminal" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cs/cs.png" alt="react" width="40" height="40"/>
 </p>
 
 ## Activity
